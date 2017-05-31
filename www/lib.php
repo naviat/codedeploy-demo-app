@@ -1,5 +1,5 @@
 <?php
-
+// test
 function get_perc()
 	{
 	$info = array();
